@@ -77,4 +77,36 @@ SQL (Structured Query Language) is a programming language used to interact with 
 
 Learning SQL is an important skill for anyone working with databases or data-intensive applications. It allows developers to effectively manage and query large amounts of data, and can be a valuable asset in many different fields and industries.
 
+### Git & Github
+
+As an undergraduate engineering student, you will come across many tools that are essential to the software development process. One such tool is git. Git is a version control system that allows developers to track and manage changes to their codebase. It allows multiple developers to work on the same project concurrently, and helps them to merge their changes together without conflicts. Git is widely used in the software industry and is a crucial tool for collaboration and coordination in software development. 
+
+Github is a platform that allows developers to use git to collaborate and share code. Github is particularly useful when working in a team, as it allows multiple people to work on the same code simultaneously without overwriting each other's changes. Github also provides a platform for developers to share their code with others, making it easy for others to collaborate and contribute.
+
+To get started with github, you will first need to create an account on the platform. Once you have an account, you can create a "repository" to store your code. A repository is like a folder on your computer, but it is stored on the github platform. You can then use git, a command-line tool, to "push" your code to the repository, where it will be stored and backed up.
+
+Using github can greatly improve your workflow as a software developer. It allows you to easily share your code with others, collaborate on projects, and keep track of changes. As you continue to learn and grow as a developer, github will be an invaluable resource. It always helps to have an active git repository, that shows your work on personal hobby/freelance projects, as a signal of your coding experience and prowess to potential employers.
+
+### DevOps
+
+DevOps is a practice that aims to bring together the development and operations teams to ensure smooth and efficient delivery of software.
+
+At its core, DevOps focuses on automation, collaboration, and continuous improvement. By automating various processes, such as testing and deployment, teams can save time and reduce errors. Collaboration between development and operations teams is also essential, as it allows for better communication and coordination. And by constantly iterating and improving processes, teams can deliver high-quality software more quickly and efficiently.
+
+One key technology in the DevOps world is Kubernetes. Kubernetes is an open-source platform for managing and deploying containerized applications. It allows teams to easily scale and manage their applications, making it an essential tool in the DevOps toolkit.
+
+Another important aspect of DevOps is continuous integration and continuous delivery (CI/CD). These practices involve regularly integrating code changes and delivering them to production in a safe and efficient manner. By implementing CI/CD pipelines, teams can ensure that their software is always up-to-date and ready for deployment.
+
+### Software Testing
+
+In the world of software development, testing is a critical part of the process. It ensures that the software we build is of high quality, functions properly, and meets the needs of our users.
+
+There are many different types of software testing, each with its own unique focus and purpose. Some of the most common categories include unit testing, integration testing, and system testing.
+
+Unit testing focuses on individual components or units of code, ensuring that they function properly on their own. Integration testing looks at how different units of code work together, while system testing tests the entire system as a whole.
+
+In addition to these types of testing, there are also other common methods such as regression testing, which checks for any regressions or unintended changes in previously working features, and user acceptance testing, where real users test the software to ensure it meets their needs.
+
+As a software developer, it's important to have a strong understanding of these different types of testing and how they fit into the overall development process. By using a combination of these techniques, we can build high quality software that meets the needs of our users.
+
 1. [HarvardX CS50X - Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
