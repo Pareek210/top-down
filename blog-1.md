@@ -20,7 +20,9 @@ This is an evolving list, and each of these areas includes many sub-categories. 
 
 If we were to select a group of 100 first-year university students from any institution in the country, it's likely that their familiarity with computers would vary greatly. While access to technology has improved in recent years, many people's primary interaction with computers is still limited to their smartphones. They may also have a desktop or laptop for common tasks like writing documents, watching movies, browsing the web, and playing games. Few students come to university with a background in the inner workings of computers.
 
-In this section, I don't aim to reinvent the wheel, but rather to curate the excellent content that is already available. I will provide guidance and suggestions to help you navigate this material. As you learn, be sure to supplement your knowledge with your own research on YouTube and other sources. The key is to develop curiosity and explore new concepts. Over time, you should aim to identify your preferred sources of information and learning materials that suit your style. Some of the major topics to cover on this track include:
+In this section, I don't aim to reinvent the wheel, but rather to curate the excellent content that is already available. I will provide guidance and suggestions to help you navigate this material. As you learn, be sure to supplement your knowledge with your own research on YouTube and other sources. The key is to develop curiosity and explore new concepts. Over time, you should aim to identify your preferred sources of information and learning materials that suit your style.
+
+1. [HarvardX CS50X - Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ### Early Computing Machines
 
