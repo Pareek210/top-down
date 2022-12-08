@@ -108,5 +108,3 @@ Unit testing focuses on individual components or units of code, ensuring that th
 In addition to these types of testing, there are also other common methods such as regression testing, which checks for any regressions or unintended changes in previously working features, and user acceptance testing, where real users test the software to ensure it meets their needs.
 
 As a software developer, it's important to have a strong understanding of these different types of testing and how they fit into the overall development process. By using a combination of these techniques, we can build high quality software that meets the needs of our users.
-
-1. [HarvardX CS50X - Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
