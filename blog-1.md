@@ -34,3 +34,73 @@ In the 1950s, more powerful computers were developed, such as the UNIVAC and IBM
 
 1. [Basics of Computers - Quick Guide](https://www.tutorialspoint.com/basics_of_computers/basics_of_computers_quick_guide.html)
 2. [Early Days of Computing - Know the Code](https://knowthecode.io/labs/evolution-of-computing/episode-2)
+
+### Input-Output Devices
+
+Input-output devices are hardware components that are used to interact with a computer. Input devices allow a user to provide data or instructions to the computer, while output devices display or present the results of the computer's processing.
+
+Some common input devices include the keyboard, which is used to type text and numbers, and the mouse, which is used to move a cursor and select on-screen items. Other input devices include touchscreens, microphones, and cameras.
+
+Output devices include the display screen, which is used to show text, images, and other information. Other output devices include speakers, which are used to produce sound, and printers, which are used to produce hard copies of documents.
+
+Some input-output devices, such as a desktop computer, combine both input and output capabilities in one device. These devices often include a keyboard and a mouse for input, and a display screen and speakers for output.
+
+Input-output devices can be thought of as the modern equivalent of older technology such as the typewriter, which was used for input, and the radio, which was used for output. Just as the typewriter allowed a user to input text and the radio allowed a user to hear sounds and music, modern input-output devices provide similar capabilities in a more versatile and efficient way.
+
+1. [Input and Output Devices - GeeksforGeeks](https://www.geeksforgeeks.org/input-and-output-devices/)
+
+### Processors
+
+A computing processor, also known as a central processing unit (CPU), is the part of a computer that performs the instructions of a computer program. The CPU is the "brain" of the computer, and it is responsible for executing the instructions that make up a program.
+
+The CPU is a complex piece of hardware that contains multiple components and circuits, such as the arithmetic logic unit (ALU), the control unit, and the registers. These components work together to fetch instructions from memory, decode and execute them, and store the results of the calculations.
+
+The history and current state of computing processors is a fascinating and rapidly evolving field. To learn more about the history and current state of computing processors, you can read books and articles on the subject, watch videos and tutorials, or take online courses. Some resources you may find helpful include the following:
+
+1. ["The Elements of Computing Systems" by Noam Nisan and Shimon Schocken](https://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems)
+2. ["Code: The Hidden Language of Computer Hardware and Software" by Charles Petzold](https://www.goodreads.com/book/show/44882.Code?ac=1&from_search=true&qid=Q88XkD2uT9&rank=1)
+3. [But How Do It Know? by J. Clark Scott](http://buthowdoitknow.com/)
+4. [What is a Processor? - Definition from Techopedia](https://www.techopedia.com/definition/28254/processor)
+
+### Computer Memory
+
+Memory is a crucial component of a computer that is used to store data and instructions for use by the CPU. There are two main types of memory in a computer: primary memory, which is directly accessible by the CPU, and secondary memory, which is not directly accessible by the CPU but can be accessed slower than primary memory.
+
+Primary memory, also known as random access memory (RAM), is a type of memory that is directly accessible by the CPU. It is used to store data and instructions that are currently being used or processed by the CPU. Primary memory is volatile, which means that it is erased when the power is turned off.
+
+Secondary memory, also known as non-volatile memory, is a type of memory that is not directly accessible by the CPU. It is used to store data and instructions that are not currently being used by the CPU but are needed for future reference. Examples of secondary memory include hard disk drives (HDD), solid-state drives (SSD), and USB flash drives.
+
+1. [How Computers Work by Ron White, Tim Downs](https://www.goodreads.com/book/show/31569929-how-computers-work)
+2. [The Universal History of Computing: From the Abacus to the Quantum Computer](https://www.goodreads.com/book/show/677234.The_Universal_History_of_Computing?ac=1&from_search=true&qid=yOkPqsnisE&rank=1)
+3. [Computer Memory - GeeksforGeeks](https://www.geeksforgeeks.org/computer-memory/)
+4. [ROM & RAM: An Introduction to Computer Memory](https://arith-matic.com/notebook/rom-ram-computer-memory)
+5. [How computer memory works - Kanawat Senanan](https://youtu.be/p3q5zWCw8J4)
+
+### Operating Systems
+
+A computer operating system (OS) is a software program that manages the hardware and software resources of a computer. The operating system is the most important software on a computer, as it provides the interface between the user and the computer hardware, and it enables applications and programs to run on the computer.
+
+1. [Operating System Concepts by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne](https://www.goodreads.com/book/show/83833.Operating_System_Concepts)
+2. [Operating System Design: The Xinu Approach by Douglas E. Comer](https://www.goodreads.com/book/show/24879806-operating-system-design)
+3. [Evolution of Operating System](https://www.geeksforgeeks.org/evolution-of-operating-system/)
+4. [Operating System Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/operating_system/index.htm)
+
+### Low-level languages
+
+Assembly language and machine language are low-level programming languages that are used to write programs that can be executed directly by a computer's central processing unit (CPU). These languages are called low-level languages because they are close to the native language of the CPU, which is called machine code.
+
+Assembly language is a symbolic representation of machine code that uses mnemonic codes to represent the instructions of a computer program. These mnemonic codes are easier for humans to read and write than the binary machine code, but they are still very close to the machine code and require a deep understanding of the CPU's architecture and instruction set.
+
+Machine language, also known as machine code, is the native language of the CPU. It is a sequence of binary digits (0s and 1s) that represent the instructions of a computer program. Machine language is not human-readable and is difficult to write, but it is the most efficient and direct way to communicate with the CPU.
+
+1. [Assembly Language for x86 Processors by Kip R. Irvine](https://www.goodreads.com/book/show/7178837-assembly-language-for-x86-processors?ac=1&from_search=true&qid=8DONVBiCFi&rank=1)
+
+### Compilers & Assemblers
+
+A compiler is a program that translates source code written in a high-level programming language into machine code that can be executed by a computer's central processing unit (CPU). The source code is the human-readable code that is written by a programmer using a high-level programming language, such as C++, Java, or Python. The machine code is the native language of the CPU, which is a sequence of binary digits (0s and 1s) that represent the instructions of a program.
+
+An assembler is a program that translates assembly language code into machine code. Assembly language is a symbolic representation of machine code that uses mnemonic codes to represent the instructions of a computer program. These mnemonic codes are easier for humans to read and write than the binary machine code, but they are still very close to the machine code and require a deep understanding of the CPU's architecture and instruction set.
+
+Compilers and assemblers are essential tools for programming and are used in almost all software development processes. They enable programmers to write high-level source code that is easy to read and understand, and then translate it into machine code that can be executed by the CPU. Compilers and assemblers are complex programs that perform many tasks and require a deep understanding of computer architecture and programming languages.
+
+1. [Compilers: Principles, Techniques, and Tools (by Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman](https://www.goodreads.com/book/show/703102.Compilers?ac=1&from_search=true&qid=7Hj9NfHUv1&rank=1)
