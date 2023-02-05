@@ -4,6 +4,7 @@ This post will list down some of the most important pieces to understand before 
 ### [Internet](https://github.com/Pareek210/top-down/blob/main/blog-3.md)
 
 ### Web Applications
+Web applications are software applications that run on the internet and are accessed through a web browser, such as Google Chrome, Mozilla Firefox, or Microsoft Edge. Unlike traditional desktop applications, which are installed on a specific device, web applications are hosted on remote servers and are accessible from anywhere with an internet connection. Some examples of web applications include email services, such as Gmail and Outlook, social media platforms, such as Facebook and Twitter, and e-commerce websites, such as Amazon and eBay. Web applications use technologies such as HTML, CSS, and JavaScript to provide a user-friendly interface, and often use server-side technologies, such as PHP or Ruby on Rails, to handle the back-end processing. Web applications offer many benefits, such as cross-device compatibility, ease of use, and frequent updates, and are becoming increasingly popular for both personal and business use.
 
 1. [What is Web Application Architecture? Components, Models, and Types (hackr.io)](https://hackr.io/blog/web-application-architecture-definition-models-types-and-more)
 2. [How Web Works - Web Application Architecture for Beginners - GeeksforGeeks](https://www.geeksforgeeks.org/how-web-works-web-application-architecture-for-beginners/)
