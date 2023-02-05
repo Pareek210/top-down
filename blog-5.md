@@ -10,14 +10,14 @@ Choosing a programming language as a beginner can be a challenging task. However
 1. [How to Choose a Programming Language For a Project? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-choose-a-programming-language-for-a-project/)
 2. [How to Choose a Programming Language and Escape Tutorial Purgatory (freecodecamp.org)](https://www.freecodecamp.org/news/how-to-choose-a-programming-language-and-escape-tutorial-purgatory/)
 
-### Understand IDE’s -
+### Understand IDE’s
+When it comes to writing, testing, and debugging code, an Integrated Development Environment (IDE) can be an incredibly helpful tool. Picking the right IDE is just as important as choosing the right programming language. Some popular options include Visual Studio Code, which is a lightweight and customizable IDE, or PyCharm, which is specifically designed for Python development. Another option is Eclipse, which supports a wide range of programming languages and is often used for Java development. When choosing an IDE, consider factors such as language support, ease of use, and available features, such as code completion, debugging tools, and version control integration. Try out a few different options and choose the one that works best for you and your projects. Remember, the most important thing is to start coding and start building your skills, so don't get too caught up in choosing the perfect IDE.
 
 1. [What is an IDE or Integrated Development Environment? | Veracode](https://www.veracode.com/security/integrated-development-environment)
 2. [What is an IDE? IDE Meaning in Coding (freecodecamp.org)](https://www.freecodecamp.org/news/what-is-an-ide-for-beginners/)
 3. [How to Choose A Code Editor or IDE | Developer.com](https://www.developer.com/languages/how-to-choose-a-code-editor/)
 
 #### Some popular IDEs to checkout
-When it comes to writing, testing, and debugging code, an Integrated Development Environment (IDE) can be an incredibly helpful tool. Picking the right IDE is just as important as choosing the right programming language. Some popular options include Visual Studio Code, which is a lightweight and customizable IDE, or PyCharm, which is specifically designed for Python development. Another option is Eclipse, which supports a wide range of programming languages and is often used for Java development. When choosing an IDE, consider factors such as language support, ease of use, and available features, such as code completion, debugging tools, and version control integration. Try out a few different options and choose the one that works best for you and your projects. Remember, the most important thing is to start coding and start building your skills, so don't get too caught up in choosing the perfect IDE.
 
 1. Visual Studio Code - [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
 2. [Gitpod: Always ready to code.](https://www.gitpod.io/) - [Hands-On Gitpod.io Online IDE. Introduction | by Rajesh Shah | codeburst](https://codeburst.io/hands-on-gitpod-io-online-ide-7c86665f0117)
