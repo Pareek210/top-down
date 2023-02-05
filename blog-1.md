@@ -87,7 +87,7 @@ A computer operating system (OS) is a software program that manages the hardware
 3. [Evolution of Operating System](https://www.geeksforgeeks.org/evolution-of-operating-system/)
 4. [Operating System Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/operating_system/index.htm)
 
-### Low-level languages
+### Low-level & high-level languages
 
 Assembly language and machine language are low-level programming languages that are used to write programs that can be executed directly by a computer's central processing unit (CPU). These languages are called low-level languages because they are close to the native language of the CPU, which is called machine code.
 
@@ -96,8 +96,11 @@ Assembly language is a symbolic representation of machine code that uses mnemoni
 Machine language, also known as machine code, is the native language of the CPU. It is a sequence of binary digits (0s and 1s) that represent the instructions of a computer program. Machine language is not human-readable and is difficult to write, but it is the most efficient and direct way to communicate with the CPU.
 
 1. [Assembly Language for x86 Processors by Kip R. Irvine](https://www.goodreads.com/book/show/7178837-assembly-language-for-x86-processors?ac=1&from_search=true&qid=8DONVBiCFi&rank=1)
+2. [Generations of programming language (includehelp.com)](https://www.includehelp.com/basics/generations-of-programming-language.aspx)
+3. [Machine Language/Assembly Language/High Level Language (mtsu.edu)](https://www.cs.mtsu.edu/~xyang/2170/computerLanguages.html)
+4. [A History of Computer Programming Languages (brown.edu)](https://cs.brown.edu/~adf/programming_languages.html)
 
-### Compilers & Assemblers
+### Assemblers, Compilers & program execution
 
 A compiler is a program that translates source code written in a high-level programming language into machine code that can be executed by a computer's central processing unit (CPU). The source code is the human-readable code that is written by a programmer using a high-level programming language, such as C++, Java, or Python. The machine code is the native language of the CPU, which is a sequence of binary digits (0s and 1s) that represent the instructions of a program.
 
@@ -106,3 +109,6 @@ An assembler is a program that translates assembly language code into machine co
 Compilers and assemblers are essential tools for programming and are used in almost all software development processes. They enable programmers to write high-level source code that is easy to read and understand, and then translate it into machine code that can be executed by the CPU. Compilers and assemblers are complex programs that perform many tasks and require a deep understanding of computer architecture and programming languages.
 
 1. [Compilers: Principles, Techniques, and Tools (by Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman](https://www.goodreads.com/book/show/703102.Compilers?ac=1&from_search=true&qid=7Hj9NfHUv1&rank=1)
+2. [Program Execution in the CPU - GeeksforGeeks](https://www.geeksforgeeks.org/program-execution-in-the-cpu/)
+3. [A short primer on assemblers, compilers, and interpreters | Opensource.com](https://opensource.com/article/19/5/primer-assemblers-compilers-interpreters)
+4. [Language Processors: Assembler, Compiler and Interpreter - GeeksforGeeks](https://www.geeksforgeeks.org/language-processors-assembler-compiler-and-interpreter/)
