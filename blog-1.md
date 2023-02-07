@@ -4,15 +4,16 @@
 
 I graduated from one of the best computer science engineering schools in the world, where I had access to excellent professors, a talented peer group, and guidance from successful seniors. Despite these advantages, it can still be difficult to make the most of this education. Traditional teaching methods often focus on the details without providing a broader understanding of the field. Additionally, a lack of guidance and opportunities to engage with the real-world software development community can make it difficult for young students to develop a passion for the subject. This article is an attempt to provide a top-down view of software development for those new to the field. The goal is to help students understand the landscape and plan their own path with the right information and resources.
 
-To avoid getting lost in the details, it's important to keep the broader goals of your education in mind. In my opinion, some reasonable targets to aim for include:
+To avoid getting lost in the details, it's important to keep the broader goals of your education in mind. Start with the following steps and supplement each with additional practice and information:
 
 1. Gaining a basic understanding of computers
-2. Getting a feel for software development
-3. Choosing a language for basic programming practice
-4. Learning the primary theoretical concepts of computer science
-5. Mastering the primary concepts of basic programming
-6. Developing routines for sharpening math and logic skills
-7. Generating excitement for the potential of software businesses
+2. The purpose of software development - how it creates value
+3. Getting familiar with the internet
+4. Critical parts of a software and the development lifecycle
+5. Taking the baby steps in programming
+6. Theoretical aspects of being a software developer
+7. Understanding the building blocks of code
+8. Continuous endeavour to strengthen math & logic
 
 This is an evolving list, and each of these areas includes many sub-categories. It's a good idea to regularly revisit these overarching goals and take a step back to assess your progress.
 
