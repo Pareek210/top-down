@@ -117,5 +117,5 @@ Compilers and assemblers are essential tools for programming and are used in alm
 
 1. [Compilers: Principles, Techniques, and Tools (by Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman](https://www.goodreads.com/book/show/703102.Compilers?ac=1&from_search=true&qid=7Hj9NfHUv1&rank=1)
 2. [Program Execution in the CPU - GeeksforGeeks](https://www.geeksforgeeks.org/program-execution-in-the-cpu/)
-3. [A short primer on assemblers, compilers, and interpreters | Opensource.com](https://opensource.com/article/19/5/primer-assemblers-compilers-interpreters)
+3. [A short primer on assemblers, compilers, and interpreters - Opensource.com](https://opensource.com/article/19/5/primer-assemblers-compilers-interpreters)
 4. [Language Processors: Assembler, Compiler and Interpreter - GeeksforGeeks](https://www.geeksforgeeks.org/language-processors-assembler-compiler-and-interpreter/)
