@@ -1,3 +1,9 @@
+---
+title: Software Development in the Real World
+layout: index
+---
+
+
 # Software Development in the Real World
 
 ## Introduction
