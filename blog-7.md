@@ -1,3 +1,8 @@
+---
+layout: index
+title: Top-Down
+---
+
 ## A Guide to the Building Blocks of Code
 The foundation of any successful software development project lies in a solid understanding of the basic building blocks of code. These building blocks are the fundamental concepts and principles that underpin all programming languages and systems. From basic operators, loops and functions to creating code libraries and packages, mastering these concepts is crucial for creating efficient, effective, and scalable software applications. In this section, we'll take a closer look at these building blocks, exploring the key concepts and principles that every beginner programmer should be familiar with. Whether you're just starting out or looking to refresh your knowledge, this guide is a comprehensive resource that will help you gain a deeper understanding of the underlying mechanics of programming.
 

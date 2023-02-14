@@ -1,3 +1,8 @@
+---
+layout: index
+title: Top-Down
+---
+
 ## A Guide to the Theoretical Side of Programming
 
 Learning how to code is a rewarding and challenging journey, and it starts with a strong understanding of the theoretical concepts that underlie all software development. This section is designed to give you an overview of the fundamental principles that form the basis of programming, from the structure of programming languages to the concepts of algorithms and data structures. Whether you're a complete beginner or have some experience with coding, this guide will provide you with the knowledge and understanding you need to build a solid foundation for your programming journey. By exploring the theoretical side of programming, you'll gain a deeper appreciation for the logic and structure of code, and be better equipped to tackle the challenges that lie ahead.

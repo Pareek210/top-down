@@ -1,3 +1,8 @@
+---
+layout: index
+title: Top-Down
+---
+
 ## Baby Steps in Programming
 
 Software engineering is a rewarding and dynamic career field, with a never-ending array of things to learn and discover. The pace of innovation in the industry is lightning-fast, with millions of talented minds collaborating to create new languages, tools, frameworks, and products at a rate that is sure to leave even the most curious minds dizzy. However, it's important to note that becoming a successful software engineer doesn't require an encyclopedic knowledge of every aspect of the field, nor does it require mastery of everything all at once. With the help of some of my experienced software engineering colleagues, we'll provide a more hands-on perspective on this exciting field.

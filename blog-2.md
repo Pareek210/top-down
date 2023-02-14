@@ -1,3 +1,8 @@
+---
+layout: index
+title: Top-Down
+---
+
 ## The Purpose of Software Development
 
 I can't stress enough on how important it is to stay up-to-date with the latest developments in the field. The software world is constantly evolving and you don't want to be left behind. It's also crucial to understand why software exists, how it's developed and used, and what's good and bad about it. This will help you make informed decisions about your career and stay focused on your studies. Keep an open mind and explore different perspectives on the industry, and always keep your eyes on the endgame.

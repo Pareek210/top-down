@@ -1,12 +1,14 @@
 # Site settings
-title: Software Engineering Roadmap
+title: Top-Down
 email: mukeshpareek1997@gmail.com
 description: Roadmap for software engineering
 baseurl: "/top-down"
-url: "https://pareek210.github.io/" # the base hostname & protocol for your site
+url: "https://pareek210.github.io" # the base hostname & protocol for your site
 
 # Build settings
-markdown: GFM
+markdown: kramdown
+kramdown:
+  input: GFM
 # theme: hacker
 
 remote_theme: pages-themes/hacker@v0.2.0

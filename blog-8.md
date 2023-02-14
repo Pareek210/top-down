@@ -1,3 +1,8 @@
+---
+layout: index
+title: Top-Down
+---
+
 ## Strengthening Math & Logic for Programming
 
 Computers, at their core, are machines that execute simple 0-1 instructions. All complex software can be reduced to a set of instructions in a defined order. As a beginner programmer, it's important to have the ability to break down complex operations into simple, logical steps. In today's complex world, processing large amounts of data, considering multiple perspectives, and generating valuable insights is a crucial skill for your career.
