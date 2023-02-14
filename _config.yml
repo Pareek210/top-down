@@ -1,10 +1,10 @@
 # Site settings
-title: Computer Science for Undergraduates
+title: Software Engineering Roadmap
 email: mukeshpareek1997@gmail.com
-description: A roadmap for the computer science undergraduates
+description: Roadmap for software engineering
 baseurl: "/top-down"
 url: "https://pareek210.github.io/" # the base hostname & protocol for your site
 
 # Build settings
-markdown: kramdown
-theme: minima
+markdown: GFM
+theme: hacker
