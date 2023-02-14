@@ -1,9 +1,3 @@
----
-title: Software Development in the Real World
-layout: index
----
-
-
 # Software Development in the Real World
 
 ## Introduction
@@ -29,7 +23,6 @@ If we were to select a group of 100 first-year university students from any inst
 
 In this section, I don't aim to reinvent the wheel, but rather to curate the excellent content that is already available. I will provide guidance and suggestions to help you navigate this material. As you learn, be sure to supplement your knowledge with your own research on YouTube and other sources. The key is to develop curiosity and explore new concepts. Over time, you should aim to identify your preferred sources of information and learning materials that suit your style.
 
-1. [HarvardX CS50X - Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ### Early Computing Machines
 
@@ -43,6 +36,7 @@ In the 1950s, more powerful computers were developed, such as the UNIVAC and IBM
 
 1. [Basics of Computers - Quick Guide](https://www.tutorialspoint.com/basics_of_computers/basics_of_computers_quick_guide.html)
 2. [Early Days of Computing - Know the Code](https://knowthecode.io/labs/evolution-of-computing/episode-2)
+
 
 ### Input-Output Devices
 
@@ -58,6 +52,7 @@ Input-output devices can be thought of as the modern equivalent of older technol
 
 1. [Input and Output Devices - GeeksforGeeks](https://www.geeksforgeeks.org/input-and-output-devices/)
 
+
 ### Processors
 
 A computing processor, also known as a central processing unit (CPU), is the part of a computer that performs the instructions of a computer program. The CPU is the "brain" of the computer, and it is responsible for executing the instructions that make up a program.
@@ -70,6 +65,7 @@ The history and current state of computing processors is a fascinating and rapid
 2. ["Code: The Hidden Language of Computer Hardware and Software" by Charles Petzold](https://www.goodreads.com/book/show/44882.Code?ac=1&from_search=true&qid=Q88XkD2uT9&rank=1)
 3. [But How Do It Know? by J. Clark Scott](http://buthowdoitknow.com/)
 4. [What is a Processor? - Definition from Techopedia](https://www.techopedia.com/definition/28254/processor)
+
 
 ### Computer Memory
 
@@ -85,6 +81,7 @@ Secondary memory, also known as non-volatile memory, is a type of memory that is
 4. [ROM & RAM: An Introduction to Computer Memory](https://arith-matic.com/notebook/rom-ram-computer-memory)
 5. [How computer memory works - Kanawat Senanan](https://youtu.be/p3q5zWCw8J4)
 
+
 ### Operating Systems
 
 A computer operating system (OS) is a software program that manages the hardware and software resources of a computer. The operating system is the most important software on a computer, as it provides the interface between the user and the computer hardware, and it enables applications and programs to run on the computer.
@@ -93,6 +90,7 @@ A computer operating system (OS) is a software program that manages the hardware
 2. [Operating System Design: The Xinu Approach by Douglas E. Comer](https://www.goodreads.com/book/show/24879806-operating-system-design)
 3. [Evolution of Operating System](https://www.geeksforgeeks.org/evolution-of-operating-system/)
 4. [Operating System Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/operating_system/index.htm)
+
 
 ### Low-level & high-level languages
 
@@ -106,6 +104,7 @@ Machine language, also known as machine code, is the native language of the CPU.
 2. [Generations of programming language (includehelp.com)](https://www.includehelp.com/basics/generations-of-programming-language.aspx)
 3. [Machine Language/Assembly Language/High Level Language (mtsu.edu)](https://www.cs.mtsu.edu/~xyang/2170/computerLanguages.html)
 4. [A History of Computer Programming Languages (brown.edu)](https://cs.brown.edu/~adf/programming_languages.html)
+
 
 ### Assemblers, Compilers & program execution
 
