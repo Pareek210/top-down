@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% if page.title %}
+      <title>{{ page.title | capitalize }} - {{ site.title }}</title>
+    {% else %}
+      <title>{{ site.title }}</title>
+    {% endif %}
+
+    <!-- Google Analytics -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TRQZJBYJJ9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TRQZJBYJJ9');
+    </script>
+    <!-- End Google Analytics -->
+    
+  </head>
+  <body>
+    ...
+  </body>
+</html>
